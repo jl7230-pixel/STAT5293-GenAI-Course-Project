@@ -1,0 +1,22 @@
+# Core packages for STAT5293 GenAI Course Project
+# Chain-of-thought distillation with GSM8K, Qwen2.5, and LoRA
+
+torch
+transformers
+datasets
+peft
+trl
+accelerate
+bitsandbytes
+
+# Data processing and evaluation
+pandas
+numpy
+tqdm
+scikit-learn
+
+# Visualization
+matplotlib
+
+# API / teacher generation, if used
+openai
