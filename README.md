@@ -49,9 +49,9 @@ In the pilot experiment, the dataset was divided into:
 
 | Split | Number of Examples |
 |---|---:|
-| Training | 200 |
-| Validation | 50 |
-| Test / Generation | 50 |
+| Training | 1000 |
+| Validation | 100 |
+| Test / Generation | 100 |
 
 Because this is a course project with limited computing resources, the experiment uses a small subset of GSM8K rather than the full dataset.
 
