@@ -8,6 +8,9 @@ peft
 trl
 accelerate
 bitsandbytes
+safetensors
+sentencepiece
+protobuf
 
 # Data processing and evaluation
 pandas
@@ -20,3 +23,7 @@ matplotlib
 
 # API / teacher generation, if used
 openai
+
+# Notebook environment
+jupyter
+notebook
