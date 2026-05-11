@@ -2,7 +2,24 @@
 
 ## Chain-of-Thought Distillation for Mathematical Reasoning
 
-This repository contains the final project for **STAT GR5293 GenAI**. The project studies chain-of-thought (CoT) distillation for mathematical reasoning using the GSM8K dataset and a Qwen2.5-3B-Instruct student model.
+This repository contains the final project for **STAT GR5293 GenAI**.  
+The project studies chain-of-thought (CoT) distillation for mathematical reasoning using the GSM8K dataset and a Qwen2.5-3B-Instruct student model.
+
+---
+
+## Main Final Project Code
+
+Please open the main notebook:
+
+`STAT5293_Final_Project_for_GitHub.ipynb`
+
+This notebook contains the complete final project pipeline, including data preparation, training-format construction, LoRA fine-tuning, evaluation, and visualization.
+
+If GitHub cannot preview the notebook correctly, please download it and open it in Google Colab with GPU runtime.
+
+---
+
+## Project Goal
 
 The main goal is to compare three training formats:
 
@@ -10,7 +27,7 @@ The main goal is to compare three training formats:
 2. Verbose chain-of-thought supervision
 3. Compressed chain-of-thought supervision
 
-The project focuses on both reasoning performance and efficiency. In addition to final answer accuracy, we also consider output length and inference latency.
+The project focuses on both reasoning performance and efficiency. In addition to final answer accuracy, we also compare output length and inference latency.
 
 ---
 
