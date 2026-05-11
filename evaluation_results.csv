@@ -1,0 +1,4 @@
+condition,accuracy,avg_latency_sec,avg_output_length
+answer_only,0.14,1.24,2.00
+verbose_cot,0.68,29.27,127.62
+compressed_cot,0.64,10.80,41.74
